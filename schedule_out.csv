@@ -1,0 +1,7 @@
+day;lesson_name;start_lesson;end_lesson;teacher;class_number;lesson_type;building
+monday;programming_1;11:40;13:10;Mikhail Ermakov;2117;Practice;Kronverkskiy prospect
+monday;programming_2;13:20;15:00;Mikhail Ermakov;2117;Practice;Kronverkskiy prospect
+monday;linear_algebra_1;15:20;16:50;Dmitriy Karpov;1404;Lecture;Kronverkskiy prospect
+monday;linear_algebra_2;17:00;18:30;Dmitriy Karpov;1404;Practice;Kronverkskiy prospect
+thursday;history_1;15:20;16:50;Maksim Novikov;2416;Practice;Kronverkskiy prospect
+thursday;history_2;17:00;18:30;Dmitriy Vycherov;1405;Lecture;Kronverkskiy prospect

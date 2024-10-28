@@ -1,0 +1,59 @@
+<schedule>
+    <monday>
+        <programming_1>
+            <start_lesson>11:40</start_lesson>
+            <end_lesson>13:10</end_lesson>
+            <teacher>Mikhail Ermakov</teacher>
+            <class_number>2117</class_number>
+            <lesson_type>Practice</lesson_type>
+            <building>Kronverkskiy prospect</building>
+        </programming_1>
+
+        <programming_2>
+            <start_lesson>13:20</start_lesson>
+            <end_lesson>15:00</end_lesson>
+            <teacher>Mikhail Ermakov</teacher>
+            <class_number>2117</class_number>
+            <lesson_type>Practice</lesson_type>
+            <building>Kronverkskiy prospect</building>
+        </programming_2>
+
+        <linear_algebra_1>
+            <start_lesson>15:20</start_lesson>
+            <end_lesson>16:50</end_lesson>
+            <teacher>Dmitriy Karpov</teacher>
+            <class_number>1404</class_number>
+            <lesson_type>Lecture</lesson_type>
+            <building>Kronverkskiy prospect</building>
+        </linear_algebra_1>
+
+        <linear_algebra_2>
+            <start_lesson>17:00</start_lesson>
+            <end_lesson>18:30</end_lesson>
+            <teacher>Dmitriy Karpov</teacher>
+            <class_number>1404</class_number>
+            <lesson_type>Practice</lesson_type>
+            <building>Kronverkskiy prospect</building>
+        </linear_algebra_2>
+    </monday>
+
+    <thursday>
+        <history_1>
+            <start_lesson>15:20</start_lesson>
+            <end_lesson>16:50</end_lesson>
+            <teacher>Maksim Novikov</teacher>
+            <class_number>2416</class_number>
+            <lesson_type>Practice</lesson_type>
+            <building>Kronverkskiy prospect</building>
+        </history_1>
+
+        <history_2>
+            <start_lesson>17:00</start_lesson>
+            <end_lesson>18:30</end_lesson>
+            <teacher>Dmitriy Vycherov</teacher>
+            <class_number>1405</class_number>
+            <lesson_type>Lecture</lesson_type>
+            <building>Kronverkskiy prospect</building>
+        </history_2>
+    </thursday>
+</schedule>

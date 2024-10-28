@@ -1,0 +1,45 @@
+schedule:
+  monday:
+    programming_1:
+      start_lesson: 11:40
+      end_lesson: 13:10
+      teacher: Mikhail Ermakov
+      class_number: 2117
+      lesson_type: Practice
+      building: Kronverkskiy prospect
+    programming_2:
+      start_lesson: 13:20
+      end_lesson: 15:00
+      teacher: Mikhail Ermakov
+      class_number: 2117
+      lesson_type: Practice
+      building: Kronverkskiy prospect
+    linear_algebra_1:
+      start_lesson: 15:20
+      end_lesson: 16:50
+      teacher: Dmitriy Karpov
+      class_number: 1404
+      lesson_type: Lecture
+      building: Kronverkskiy prospect
+    linear_algebra_2:
+      start_lesson: 17:00
+      end_lesson: 18:30
+      teacher: Dmitriy Karpov
+      class_number: 1404
+      lesson_type: Practice
+      building: Kronverkskiy prospect
+  thursday:
+    history_1:
+      start_lesson: 15:20
+      end_lesson: 16:50
+      teacher: Maksim Novikov
+      class_number: 2416
+      lesson_type: Practice
+      building: Kronverkskiy prospect
+    history_2:
+      start_lesson: 17:00
+      end_lesson: 18:30
+      teacher: Dmitriy Vycherov
+      class_number: 1405
+      lesson_type: Lecture
+      building: Kronverkskiy prospect
